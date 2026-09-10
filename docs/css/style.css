@@ -105,6 +105,10 @@ a:hover {
   color: #c8102e;
 }
 
+a:visited {
+  color: #1a3d7c;
+}
+
 /* === Lista desordenada === */
 ul {
   margin-left: 25px;
