@@ -1,0 +1,117 @@
+/* === Reset básico === */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* === Estilos generales del body === */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px 20px;
+}
+
+/* === Título principal === */
+h1 {
+  color: #1a3d7c;
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+/* === Subtítulos === */
+h2 {
+  color: #1a3d7c;
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+/* === Línea separadora === */
+hr {
+  border: none;
+  border-top: 2px solid #1a3d7c;
+  margin: 15px 0;
+}
+
+/* === Imagen general === */
+img {
+  display: block;
+  max-width: 220px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 15px 0;
+}
+
+/* === Menú de navegación === */
+nav {
+  margin: 15px 0 25px 0;
+  font-size: 15px;
+}
+
+nav a {
+  color: #1a3d7c;
+  text-decoration: none;
+  padding: 0 6px;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #c8102e;
+}
+
+/* === Lista ordenada === */
+ol {
+  margin-left: 25px;
+  margin-top: 10px;
+}
+
+ol li {
+  padding: 4px 0;
+}
+
+/* === Tabla === */
+table {
+  margin: 15px 0;
+  border-collapse: collapse;
+}
+
+table td {
+  padding: 8px 12px;
+  vertical-align: middle;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* === Imagen dentro de tabla (más específico, gana siempre) === */
+table td img {
+  max-width: 100px;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 6px;
+}
+
+/* === Enlaces generales === */
+a {
+  color: #1a3d7c;
+}
+
+a:hover {
+  color: #c8102e;
+}
+
+/* === Lista desordenada === */
+ul {
+  margin-left: 25px;
+  margin-top: 10px;
+  list-style-type: circle;
+}
+
+ul li {
+  padding: 4px 0;
+}
