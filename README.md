@@ -5,7 +5,7 @@ en Desarrollo Front-End. Consiste en un CV ficticio de Cristiano Ronaldo,
 con 4 páginas enlazadas y estilos en CSS.
 
 Este repositorio incluye **dos versiones** del proyecto:
-- **`version-final/`** — versión actualizada, con CSS externo y estructura corregida
+- **`docs/`** — versión final del proyecto, con CSS externo y estructura corregida (publicada en GitHub Pages)
 - **`version-original/`** — versión tal como la entregué en el Módulo 1, con CSS inline
 
 La comparación entre ambas refleja mi proceso de aprendizaje y las mejoras 
