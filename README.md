@@ -35,7 +35,7 @@ Practicar las bases de HTML y CSS construyendo un sitio multipágina con:
 ```
 01-curriculum-futbolista/
 ├── README.md
-├── version-final/
+├── docs/
 │   ├── index.html
 │   ├── formacion.html
 │   ├── portafolio.html
@@ -51,6 +51,7 @@ Practicar las bases de HTML y CSS construyendo un sitio multipágina con:
     ├── resumen.html
     └── assets/
         └── images/
+
 ```
 
 ---
