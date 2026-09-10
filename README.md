@@ -92,7 +92,7 @@ Practicar las bases de HTML y CSS construyendo un sitio multipágina con:
 ## 👤 Autor
 
 **Joaquín Felipe Ferro Vasco**
-- 🎨 Diseñador Gráfico & Front-End en formación
+- 🎨 Diseñador Gráfico | Desarrollador Front-End en formación
 - 📧 [joaquin.ferro@gmail.com](mailto:joaquin.ferro@gmail.com)
 - 🐙 [GitHub](https://github.com/JoaquinFerro)
 
